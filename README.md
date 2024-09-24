@@ -1,5 +1,5 @@
 # DigiCode
-- [Demo Project](https://digi-code.vercel.app/)
+- [Demo Project](https://digi-code-anw8.vercel.app/)
 - Developed by Marzieh Sanaei
 - Technologies Used -HTML, CSS, Tailwind, Swiper, JavaScript, React
 - Hooks Used: useState, useEffect
